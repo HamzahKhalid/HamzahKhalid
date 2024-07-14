@@ -3,6 +3,9 @@
 
 
 # 💫 About Me:
+
+[![](https://visitcount.itsvg.in/api?id=HamzahKhalid&icon=7&color=0)](https://visitcount.itsvg.in)
+<br>
 🔭 I’m currently working on improving my skills and building projects with the MERN stack.<br>👯 I’m looking to collaborate on innovative web applications and open-source projects.<br>🤝 I’m looking for help with advanced MERN stack techniques and best practices.<br>💬 Ask me about web development, JavaScript, or anything tech-related!<br>⚡ Fun fact: I love exploring new technologies and finding creative solutions to challenging problems.
 
 
@@ -14,14 +17,12 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahKhalid&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=HamzahKhalid&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HamzahKhalid&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahKhalid&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HamzahKhalid&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=HamzahKhalid&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
