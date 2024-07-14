@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamzah Khalid </h1>
-<h3 align="center">My primary expertise lies in full-stack web developement & i own a solid foundation in programing languages such as C++, Java, HTML, CSS & Javascipt. Over past 1 year i have been actively working in React.js & Node.js!</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | Passionate About Learning New Technologies</h3>
 
 
 # 💫 About Me:
